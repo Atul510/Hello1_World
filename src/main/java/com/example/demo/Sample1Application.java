@@ -11,7 +11,7 @@ public class Sample1Application {
 	
 	@GetMapping
 	public String HelloWorld() {
-		return "Hello World";
+		return "Hello World, How are you?";
 	}
 
 	public static void main(String[] args) {
